@@ -1,0 +1,36 @@
+body {
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #de96b7;
+}
+
+header {
+    background-color: #f15199;
+    padding: 20px;
+    margin: auto;
+    text-align:justify;
+}
+
+.li-navbar {
+    display: flex;
+    justify-content:center;
+    gap: 20px;
+}
+
+.li-navbar img {
+    max-width: 100%;
+    height: auto;
+    width: 200px;
+}
+
+h1, h2 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}

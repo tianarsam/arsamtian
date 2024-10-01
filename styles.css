@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Lilita+One&family=Abril+Fatface&family=Acme&display=swap');
+
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    font-family: "Abril Fatface", serif;
+    margin: 0;
+    padding: 0;
+    background-color: #B7B7B7;
+}
+
+header {
+    background-color: #705C53;
+    padding: 20px;
+    margin: auto;
+    text-align: justify;
+}
+
+.ul-Header {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 50px;
+}
+
+.image {
+    width: 20%;
+    max-width: 1200px;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.h1-Header {
+    font-family: "Cookie", cursive;
+    font-size: 10vw;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.ul-header {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.li-header {
+    height: auto;
+    width: auto;
+    margin: 5px;
+    border: 1.5px solid #413b3b;
+    border-radius: 10%;
+    padding: 15px;
+}
+
+li:hover {
+    color: black;
+    background-color: #EDDFE0;
+    transition: .3s ease-in-out;
+    transition-delay: .2s;
+    border-radius: 8px;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #534b48;
+    transition: .3s ease-in-out;
+    transition-delay: .2s;
+}
+
+.li-navbar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5px;
+    padding: 20px;
+}
+
+.li-navbar img {
+    margin-bottom: 10px;
+}
+
+.a-navbar {
+    font-family: "Lilita One", sans-serif;
+    color: #534b48;
+    text-decoration: none;
+    text-align: center;
+}
+
+.a-navbar:hover {
+    color: #413b3b;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+section {
+    background-color: #F5F5F7;
+    border-radius: 1.2rem;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    font-family: "Lilita One", sans-serif;
+    color: #534b48;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+p {
+    font-family: "Acme", sans-serif;
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.p-content {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+li {
+    margin-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    display: block;
+}
+
+li span {
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 10px;
+}
